@@ -9,7 +9,7 @@ class Watch( object ):
                  /     \  /  _  ^^^o
                 /   !   \/  ! '!!!v'
                !  !  \ _' ( \____
-               ! . \ _!\   \===^\)      Here be dragons, and Jeroen Habraken
+               ! . \ _!\   \===^\)      Here be dragons
                 \ \_!  / __!
                  \!   /    \\
            (\_      _/   _\ )
